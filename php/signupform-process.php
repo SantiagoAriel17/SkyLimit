@@ -26,7 +26,7 @@ if (empty($_POST["terms"])) {
 }
 
 $EmailTo = "yourname@domain.com";
-$Subject = "New sign up from Tivo landing page";
+$Subject = "";
 
 // prepare email body text
 $Body = "";
