@@ -160,6 +160,18 @@ a.white {
 	transition: all 0.2s;
 }
 
+.btn-solid-reg2 {
+	display: inline-block;
+	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
+	border: 0.125rem solid #4688DC;
+	border-radius: 2rem;
+	background-color: #333;
+	color: #fff;
+	font: 700 0.875rem/0 "Open Sans", sans-serif;
+	text-decoration: none;
+	transition: all 0.2s;
+}
+
 .btn-solid-reg:hover {
 	background-color: transparent;
 	color: #4688DC;
